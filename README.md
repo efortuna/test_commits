@@ -1,4 +1,4 @@
-hello world.
+hello world!
 
 This tests the Github API.
 
